@@ -1,4 +1,4 @@
-# **Flying Torosordos: Information Security Management System (ISMS) Implementation Plan**
+# **Flying Torosordos: ISO 27001 Implementation Plan**
 
 ### **Project Overview**
 
