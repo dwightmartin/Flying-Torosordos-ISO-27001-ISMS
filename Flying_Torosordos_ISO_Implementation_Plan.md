@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This document outlines a strategic plan for **Flying Torosordos** to establish an **Information Security Management System (ISMS)** in alignment with **ISO 27001**. Given the company’s global presence with projects on four different continents, adopting a globally recognized standard is a strategic priority. This plan identifies key security gaps and maps them to specific ISO 27002 controls to build a robust and compliant security program.
+This document outlines a strategic plan for **Flying Torosordos**, a fictional company, to establish an **Information Security Management System (ISMS)** in alignment with **ISO 27001**. Given the company’s global presence with projects on four different continents, adopting a globally recognized standard is a strategic priority. This plan identifies key security gaps and maps them to specific ISO 27002 controls to build a robust and compliant security program.
 
 ### **1\. Context of the Organization (ISO 27001, Clause 4\)**
 
