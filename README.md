@@ -1,8 +1,8 @@
-# **Flying Torosordos: ISO 27001/2 Executive Summary**
+# **Flying Torosordos: ISO 27001 Executive Summary**
 
 ### **Project Overview**
 
-This project outlines a strategic plan to establish an **Information Security Management System (ISMS)** for Flying Torosordos, a global tech startup. The plan, which aligns with **ISO 27001/2**, identifies critical security gaps and provides a phased roadmap to build a robust and compliant security program that is tailored to the company's unique operational environment and long-term strategic goals.
+This project outlines a strategic plan to establish an **Information Security Management System (ISMS)** for Flying Torosordos, a global tech startup. The plan, which aligns with **ISO 27001**, identifies critical security gaps and provides a phased roadmap to build a robust and compliant security program that is tailored to the company's unique operational environment and long-term strategic goals.
 
 ### **Current Security Posture & Risks**
 
@@ -26,6 +26,6 @@ To mitigate these risks and achieve compliance, a multifaceted plan was develope
 
 This project demonstrates a range of advanced GRC skills:
 
-* **ISO 27001/2 Framework:** The ability to design a security program that aligns with a globally recognized standard.  
+* **ISO 27001 Framework:** The ability to design a security program that aligns with a globally recognized standard.  
 * **Risk & Gap Analysis:** The ability to identify, assess, and mitigate risks in a business context.  
 * **Strategic Planning & Business Acumen:** The ability to develop a practical and cost-effective plan that addresses both security and business goals, including the financial trade-offs of relocating to a new office space.
