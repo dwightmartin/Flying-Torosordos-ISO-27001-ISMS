@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This document outlines a strategic plan for **Flying Torosordos** to establish an **Information Security Management System (ISMS)** in alignment with **ISO 27001/2**. Given the company’s global presence with projects on four different continents, adopting a globally recognized standard is a strategic priority. This plan identifies key security gaps and maps them to specific ISO 27002 controls to build a robust and compliant security program.
+This document outlines a strategic plan for **Flying Torosordos** to establish an **Information Security Management System (ISMS)** in alignment with **ISO 27001**. Given the company’s global presence with projects on four different continents, adopting a globally recognized standard is a strategic priority. This plan identifies key security gaps and maps them to specific ISO 27002 controls to build a robust and compliant security program.
 
 ### **1\. Context of the Organization (ISO 27001, Clause 4\)**
 
@@ -15,7 +15,7 @@ A balanced analysis of the company's security posture reveals both key strengths
 #### **Security Strengths**
 
 * **Robust Asset Security System:** The company has a strong asset security system with established backups that follow industry standards. This is a critical strength for disaster recovery and business continuity.  
-* **Strong Financial Controls:** The company has strong internal financial controls, including the segregation of duties, which is in compliance with ISO 27001/2 requirements.  
+* **Strong Financial Controls:** The company has strong internal financial controls, including the segregation of duties, which is in compliance with ISO 27001 requirements.  
 * **Asset Inventory:** The company maintains a living, active inventory of all assets, a foundational component of an effective ISMS.
 
 #### **Security Gaps and Risks**
