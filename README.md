@@ -29,3 +29,5 @@ This project demonstrates a range of advanced GRC skills:
 * **ISO 27001 Framework:** The ability to design a security program that aligns with a globally recognized standard.  
 * **Risk & Gap Analysis:** The ability to identify, assess, and mitigate risks in a business context.  
 * **Strategic Planning & Business Acumen:** The ability to develop a practical and cost-effective plan that addresses both security and business goals, including the financial trade-offs of relocating to a new office space.
+
+Cover image for this project was created using a Generative AI tool.
