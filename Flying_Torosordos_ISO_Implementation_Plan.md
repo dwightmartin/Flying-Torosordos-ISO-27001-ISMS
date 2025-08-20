@@ -160,7 +160,7 @@ To build a strong security culture that goes beyond a single training session, a
 
 This project showcases a range of advanced GRC skills:
 
-* **ISO 27001/2 Framework:** The ability to design and implement a security program that aligns with a globally recognized standard.  
+* **ISO 27001 Framework:** The ability to design and implement a security program that aligns with a globally recognized standard.  
 * **Gap Analysis & Risk Management:** The ability to identify, assess, and mitigate risks in a business context.  
 * **Policy Development:** The ability to translate strategic security objectives into actionable policies and procedures.  
 * **GRC and Compliance:** A deep understanding of how to achieve and maintain compliance with a major security standard.
