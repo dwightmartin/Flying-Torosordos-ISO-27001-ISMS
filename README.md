@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This project outlines a strategic plan to establish an **Information Security Management System (ISMS)** for Flying Torosordos, a global tech startup. The plan, which aligns with **ISO 27001**, identifies critical security gaps and provides a phased roadmap to build a robust and compliant security program that is tailored to the company's unique operational environment and long-term strategic goals.
+This project outlines a strategic plan to establish an **Information Security Management System (ISMS)** for Flying Torosordos, a fictional global tech startup. The plan, which aligns with **ISO 27001**, identifies critical security gaps and provides a phased roadmap to build a robust and compliant security program that is tailored to the company's unique operational environment and long-term strategic goals.
 
 ### **Current Security Posture & Risks**
 
